@@ -4,6 +4,7 @@ FROM node:latest as node
 WORKDIR /app
 COPY . .
 RUN npm install
+# RUN npm install -g @angular/cli: "~8.3.9"
 RUN npm run build --prod
 
 # stage 2

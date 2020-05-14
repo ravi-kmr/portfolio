@@ -1,0 +1,29 @@
+.fullStack{
+    border: 2px solid #2abec7;
+    color:#2abec7;
+    margin-top:1%;
+    margin-left:40%;
+}
+
+.section2, .section3{
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+.success {
+    border: 2px solid  #2abec7;
+    border-radius: 25%;
+}
+
+.section2 button{
+    padding: 5%;
+}
+
+.footNote{
+    position: absolute;
+    right: 0;
+    margin-right: 2%;
+    bottom: 0;
+    margin-bottom: 2%;
+    color: #2abec7;
+}

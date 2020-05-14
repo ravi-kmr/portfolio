@@ -1,0 +1,18 @@
+.fill-space{
+    flex: 1 1 auto;
+}
+
+a{
+    margin-right: 1%;
+}
+
+.container{
+    background-color: black;
+    height: 100vh;
+}
+
+
+
+mat-toolbar{
+    background-color:#2c3e50;
+}

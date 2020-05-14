@@ -1,0 +1,51 @@
+
+.home-card{
+    background-color: #2abec7;
+    color:white;
+    width: 55%;
+    font-family: 'Press Start 2P', cursive;
+    border:15px solid silver;
+}
+
+.stand{
+    background-color: silver;
+    height: 50px;
+    width:5%;
+    margin-left:27%;
+}
+
+.stand-base{
+    background-color: silver;
+    height: 10px;
+    width:20%;
+    margin-left:20%;
+    border-radius: 25%;
+}
+
+
+
+.main_div{
+    margin-top: 8%;
+    margin-left: 10%;
+}
+.myName{
+    font-family: 'Bungee Outline', cursive;
+    font-size: 10vh;
+    font-weight: bolder;
+}
+
+img{
+    border-radius: 50%;
+    margin-left: 5%;
+}
+
+.enter-button{
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 3%;
+    right:0;
+    margin-right: 5%;
+    border: 2px solid #2abec7;
+    color:#2abec7;
+
+}
